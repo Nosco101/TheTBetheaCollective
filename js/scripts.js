@@ -55,12 +55,12 @@ $(function() {
 
   var typed = new Typed('#typed', {
       strings: [
-        'a Bootcamp Instructor',
-        'a Boxing Enthusiast',
-        'a Word Game Lover',
-        'a Former Regional Sales Manager',
-        'an Algorithm Explorer',
-        'a Freelance Solutions Engineer',
+        'Lorem ipsum dolor sit amet',
+        'ipsum dolor sit amet',
+        'dolor sit amet',
+        'Sed ut perspiciatis',
+        'aspernatur aut odit',
+        'Ut enim ad minima',
       ],
       loop: true,
       backDelay: 1000,
