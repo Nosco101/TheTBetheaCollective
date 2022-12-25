@@ -1,0 +1,48 @@
+{
+	"bio": [
+		"<p>Nice to meet you, I'm Jonathan! I was born and raised in the Northeast, a dual major at Caldwell University in Financial Economics and Computer Science. After completing my studies at Caldwell I pursued an education from one of the most rigorous coding bootcamps in the nation, App Academy. I currently work as an instructor for App Academy and own a solutions company where I help small to mid-sized businesses with their online presence.</p>,",
+		"<p>Prior to going back to school and finishing my education I worked as a regional sales manager for Verizon FiOS. While working there I immediately realized that the industry was moving to online sales and no matter my efforts, I wasn't going to be able to outsell the machine. It was daunting to approach prospects that I knew qualified to buy from me tell me that they already purchased from the website. It turned out that out of all of the channels that Verizon sold FiOS through, their online sales were unmatched. I knew I needed to be on the other side of it, thus my journey to become a software engineer began.</p>",
+		"<p>This is only a small portion of my story with tons more to share. Feel free to message me through any of the provided links. I'd also caution against playing any of my word games because of how addicting they can be ;-D</p>"
+	],
+	"edu": [
+		"<p class=\"school-names\"><span><a id=\"app-academy\">A/A</a> | <a id=\"ucsd\">Caldwell U</a>",
+		"<div id=\"school\">",
+			"<h2>Caldwell University, Caldwell NJ (2016 - 2018)</h2>",
+			"<p class=\"first-elem\"> - B.S. Computer Science, Financial Economics</p>",
+			"<p class=\"course\">Courses (<a id=\"math\">Math</a>/<a id=\"mae\">Computer Science</a>):</p>",
+			"<ul class=\"courses\">",
+				"<li class=\"course\"><p>Data Structures and Algorithms</p></li>",
+				"<li class=\"course\"><p>Intro to Artificial Intelligence</p></li>",
+				"<li class=\"course\"><p>Database Management Systems</p></li>",
+				"<li class=\"course\"><p>Emerging Technologies</p></li>",
+				"<li class=\"course\"><p>Elements of Systems Analysis</p></li>",
+			"</ul>",
+		"</div>"
+	],
+	"appAcademy": [
+		"<h2>App Academy (Nov 2020 - Mar 2021)</h2>",
+		"<p class=\"first-elem\">Software Engineering Bootcamp</p>",
+		"<p class=\"course\">Languages: Ruby | Javascript | SQL</p>",
+		"<ul class=\"courses\">",
+			"<li class=\"course\"><p>Frameworks: Ruby on Rails, Express, jQuery</p></li>",
+			"<li class=\"course\"><p>Libraries: ThreeJS, Web Speech API, React</p></li>",
+			"<li class=\"course\"><p>Databases: PostgreSQL, MongoDB, AWS S3, AWS IAM</p></li>",
+			"<li class=\"course\"><p>Others: NodeJS, ActiveRecord, React Hooks, Multer</p></li>",
+		"</ul>"
+	],
+	"ucsd": [
+		"<h2>Caldwell University, Caldwell NJ (2016 - 2018)</h2>",
+		"<p class=\"first-elem\"> - B.S. Computer Science, Financial Economics</p>",
+		"<p class=\"course\">Courses (<a id=\"math\">Math</a>/<a id=\"mae\">Computer Science</a>):</p>",
+		"<ul class=\"courses\">",
+			"<li class=\"course\"><p>Data Structures and Algorithms</p></li>",
+			"<li class=\"course\"><p>Intro to Artificial Intelligence</p></li>",
+			"<li class=\"course\"><p>Database Management Systems</p></li>",
+			"<li class=\"course\"><p>Emerging Technologies</p></li>",
+			"<li class=\"course\"><p>Elements of Systems Analysis</p></li>",
+		"</ul>"
+	],
+	"work": [
+		
+	]
+}
